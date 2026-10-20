@@ -1,0 +1,1 @@
+#import <documentrecognitionsdk/DocumentRecognitionSDK.h>
